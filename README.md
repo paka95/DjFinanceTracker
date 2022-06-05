@@ -8,4 +8,4 @@ If you are in need of managing your spending and keep track of your expenses, th
 - Backend - Python 3.10/Django, MySQL
 - Frontend - HTML5/CSS, a little bit of JavaScript
 
-#work in progress
+# work in progress
